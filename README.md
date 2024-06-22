@@ -2,7 +2,8 @@
 
 Finance Watch is a tool that leverages the power of AI to gather the latest finance news, risk model updates, and emerging trends for a specified Asset Class. This README file will guide you through the setup and usage of the Finance Watch application.
 
-![alt text](https://github.com/WilliamZhao/SmartFinAI/blob/main/image (1).png?raw=true)
+![image (1)](https://github.com/WilliamZhao1/SmartFinAI/assets/71152785/abf4fa87-e239-4aaf-a739-e25b503876e2)
+
 
 ## Setup
 
